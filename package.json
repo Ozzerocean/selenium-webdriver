@@ -4,8 +4,7 @@
   "description": "",
   "main": "",
   "scripts": {
-    "test": "mocha",
-    "start": "node index.js"
+    "start": "mocha index.js"
   },
   "author": {
     "name": "Alexey Gudey"
@@ -17,6 +16,7 @@
   },
   "devDependencies": {
     "mocha": "^6.2.0",
-    "chai": "^4.2.0"
+    "chai": "^4.2.0",
+    "selenium-webdriver" : "latest"
   }
 }
