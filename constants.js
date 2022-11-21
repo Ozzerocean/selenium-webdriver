@@ -1,3 +1,3 @@
 module.exports = {
-  PAGE_LOADING_TIME: 20000,
+  PAGE_LOADING_TIME: 100000,
 }
